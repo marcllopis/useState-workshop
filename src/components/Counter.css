@@ -1,0 +1,13 @@
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  height: 30vh;
+  background-color: aqua;
+  border: 1px solid rosybrown;
+  border-radius: 10px;
+}
+
+.content-wrapper h2{
+  font-size: 140px;
+}
